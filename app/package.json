@@ -1,0 +1,12 @@
+{
+  "name": "simple-time-service",
+  "version": "1.0.0",
+  "description": "A simple microservice that returns current timestamp and visitor IP",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
